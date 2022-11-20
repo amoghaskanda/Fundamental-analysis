@@ -7,4 +7,4 @@ This repository contains a Jupyter notebook on fundamental analysis of 3300+ sto
 2. Analysing other with other indicators
 3. Possibly extend the results to a backend service and prepare user-friendly frontend to visualise the results.
 ---
-## To view the current results, open the .ipynb file
+## To view the current results, open the [notebook](https://github.com/amoghaskanda/fundamental-analysis/blob/master/Net%20profit%20margin.ipynb)
