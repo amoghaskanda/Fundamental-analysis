@@ -1,4 +1,4 @@
-# Fundamental-analysis
+# Fundamental analysis of companies
 ---
 This repository contains a Jupyter notebook on fundamental analysis of 3300+ stocks. The source of the data is a [kaggle dataset](https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018/discussion?resource=download) consisting of 200+ financial indicators of US stocks between the years 2014 and 2018.
 ---
